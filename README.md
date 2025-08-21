@@ -1,0 +1,1 @@
+# Gider_Takip.exe
