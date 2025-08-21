@@ -16,7 +16,7 @@ Bu uygulamayı bir geliştirici değilseniz ve sadece kullanmak istiyorsanız, e
 
 Projenin en güncel ve stabil sürümünü indirmek için aşağıdaki linke tıklayın. Bu link sizi doğrudan kurulum dosyasının olduğu Releases (Sürümler) sayfasına götürecektir.
 
-👉 En Son Sürümü İndirmek İçin Tıklayın ([GitHub Releases](https://github.com/serhatozbek/Gider-Takip-.Net/releases/tag/GiderTakip))
+👉 En Son Sürümü İndirmek İçin Tıklayın ([GitHub Releases](https://github.com/serhatozbek/Gider_Takip.exe/releases/tag/GiderTakipProgrami))
 
 Programı Kurun:
 
